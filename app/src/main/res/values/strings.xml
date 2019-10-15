@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ManChester United FC</string>
+
+
+    <string name="match_centre">Matche Centre</string>
+    <string name="events">Events</string>
+    <string name="commentary">Commentary</string>
+    <string name="stats">Stats</string>
+
+    <string name="match_stats">Match Stats </string>
+    <string name="possession">Possession</string>
+    <string name="shots">Shots (on target)</string>
+
+    <string name="corners">Corners </string>
+    <string name="free_kicks_won">Free Kicks Won </string>
+    <string name="fouls">Fouls</string>
+    <string name="yellow_card">Yellow Cards</string>
+    <string name="red_cards">Red Cards</string>
+</resources>
